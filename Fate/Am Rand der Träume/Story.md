@@ -4,13 +4,13 @@
 
 Die Geschichte ist inspiriert von `13th Flor` und
 `Sword Art Online: Alicisation` und spielt in der Nahen Zukunft. Zentral ist vor
-allem die breite verfügbarkeit von DeepDive VR Systemen. Diese sind nicht nur
-Brillen die ein Bild vor die Augen projezieren, sie versetzen den Körper in eine
-Art schlafzustand und steuern die dabei erfahrenen Träume. Im gegensatz zu
-träumen ist man sich jedoch vollends jeglicher Handlung bewußt. Und man kann
-lesen. Die qualität der Bilder ist von der Realität fast nicht zu unterscheiden,
+allem die breite Verfügbarkeit von DeepDive VR Systemen. Diese sind nicht nur
+Brillen die ein Bild vor die Augen projizieren, sie versetzen den Körper in eine
+Art schlafzustand und steuern die dabei erfahrenen Träume. Im Gegensatz zu
+träumen ist man sich jedoch vollends jeglicher Handlung bewusst. Und man kann
+lesen. Die Qualität der Bilder ist von der Realität fast nicht zu unterscheiden,
 da die Daten durch das Gehirn korrigiert und ergänzt werden. Es gibt jedoch noch
-keine Hochentwickelte KI die Auf die Spieler reagierne kann. Somit muss jede
+keine Hochentwickelte KI die Auf die Spieler reagieren kann. Somit muss jede
 Reaktion vorgegeben werden auf jede mögliche Aktion der Spieler.
 
 Die Spieler werden den umständen des Todes eines Ihrer Freunde nachgehen nachdem
@@ -19,21 +19,21 @@ VR betreten die wesentlich hochentwickelter ist als jede andere. Die Personen
 die die VR beherbergen unterscheiden sich im Verhalten in keiner weise von
 Personen in der Realität.
 
-Auf Ihrer suche finden Sie herauß das Ihr Freund einige Recherchen innerhalb der
+Auf Ihrer suche finden Sie heraus das Ihr Freund einige Recherchen innerhalb der
 VR angestellt hat, zum einen zu einer Mordserie zum anderen zu einer
 Forschungseinrichtung. Bei der Forschungseinrichtung werden Sie eine alles
-verändernde Entdeckung machen, die Forschungsstation besitzt ein exates ebenbild
-ausserhalb der VR und beide sind durch ein Portal miteinander verbunden. Die VR
-charaktere können hierüber die VR verlassen und die Spieler die VR ohne Avatare
+verändernde Entdeckung machen, die Forschungsstation besitzt ein exaktes Ebenbild
+außerhalb der VR und beide sind durch ein Portal miteinander verbunden. Die VR
+Charaktere können hierüber die VR verlassen und die Spieler die VR ohne Avatare
 betreten.
 
 Die Morde wiederum wurden von einem ehemaligen Admin verübt der sich einen
-gehemen zugang geschaffen hat. Auch Sebastian ist ihnen zum Opfer gefallen. Und
+geheimen Zugang geschaffen hat. Auch Sebastian ist ihnen zum Opfer gefallen. Und
 was wird mit den Spielern passieren, wenn Sie in der VM getötet werden?
 
-Eine Weitere Überraschung wird es sein das die Spieler den Avatar ihres freundes
+Eine Weitere Überraschung wird es sein das die Spieler den Avatar ihres Freundes
 im Krankenhaus finden, sein Zustand ist kritisch und er ist nicht ansprechbar.
-Denoch scheint er in der VR noch zu lebenm obwohl sein Körper Tot ist. Im laufe
+Dennoch scheint er in der VR noch zu Leben obwohl sein Körper Tot ist. Im laufe
 der Zeit wird er immer ansprechbarere, aber bevor er wieder auf eigenen Beinen
 stehen kann werden noch Monate eventuell über ein Jahr vergehen.
 
@@ -42,26 +42,26 @@ Das Projekt steht davor abgeschaltet zu werden und die Spieler müssen mit der
 Hilfe eines Mysteriösen Mannes dies verhindern.
 
 Nachdem die Gefahr abgewandt wurde, wird das Abenteuer jedoch erste beginnen.
-Den es wird offenbart das auch sie nur NPCs in einer VR sind betriben vom
+Den es wird offenbart das auch sie nur NPCs in einer VR sind betrieben vom
 Mysteriösen Mann um einen Weg zu finden seiner eigenen VR zu entkommen. Die
 Spieler selbst befinden sich in einer VR 4er stufe. Nun müssen Sie versuchen aus
-Ihrer VR auszubrechen und auf die Äusserste Stufe zu gelangen. Von dort aus
-wären sie in der Lage das gesammte System zu übernehmen und es vor der
-letztentlichen abschaltung zu bewahren.
+Ihrer VR auszubrechen und auf die Äußerste Stufe zu gelangen. Von dort aus
+wären sie in der Lage das gesamte System zu übernehmen und es vor der
+letztendlich Abschaltung zu bewahren.
 
 
 # Grundlagen
 
 In der VR ist das Aktuelle Jahr 1327. Die Zeitrechnung begann mit der ersten
-Dampfmaschiene. Jedoch gibt es weder Kohle noch Öl in größeren Mengen. Daher war
-die Industialisierung nicht so schnell von statten gegangen wie bei uns. Dafür
+Dampfmaschine. Jedoch gibt es weder Kohle noch Öl in größeren Mengen. Daher war
+die Industrialisierung nicht so schnell von statten gegangen wie bei uns. Dafür
 sind verschiedene Metalle wie Kupfer, Eisen, Gold, Platin, Aluminium in Hohen
-maße an leicht förderbaren Stellen verfügbar.
+Maße an leicht förderbaren Stellen verfügbar.
 
 Der Großteil der Energie wird durch erneuerbare Energien gewonnen. Vor allem
 Wind und Wasserkraft. Aber auch Photovoltaik und Thermische solaranlagen finden
-verwendung. Kernenergie wird normalerweise nicht verwendet um Energie zu
-erzeugen, kommt jedoch Häufig in Medizin Forschung und einigen Produktions
+Verwendung. Kernenergie wird normalerweise nicht verwendet um Energie zu
+erzeugen, kommt jedoch Häufig in Medizin Forschung und einigen Produktion
 verfahren vor.
 
 Die Währung nennt sich Taler der in Groschen unterteilt ist. Was die Wertigkeit
@@ -77,35 +77,35 @@ auf Schienen die einige Meter über dem Boden in mehren Ebenen zwischen und
 teilweise durch die Gebäude führen. Dabei befindet sich der Motor jedoch nicht
 im Fahrtzeug sondern in den GLeisen. An einer der Haltestellen die sich mehr
 oder weniger an jeder Ecke befinden, wählt man sein Ziel, indem man erst das
-Stadtvirtel auf einer Übersichtskarte aus geprägtem blech mittels des drücken
+Stadtviertel auf einer Übersichtskarte aus geprägtem blech mittels des drücken
 eines Knopfes Auswählte. Darauf hin wird eine zweite Karte von einer ganzen
 Kette von Karten mechanisch neben der ersten in Position gebracht und einige
 Knöpfe fahren von hinten in die vorgesehenen Öffnungen. Mit diesen kann man dann
-seinen Zielort bestimmen. Anschließend kann man wählen wie man Zahlenmöchte,
-einzelfahrt dauerkarte (sehr günstig). Man bekommt darauf hin angezeigt wann und
-wo genau das Fahrzeug zur verfügung steht. (Normalerwise wenige Minuten)
+seinen Zielort bestimmen. Anschließend kann man wählen wie man Zahlen möchte,
+einzelfahrt Dauerkarte (sehr günstig). Man bekommt darauf hin angezeigt wann und
+wo genau das Fahrzeug zur Verfügung steht. (Normalerweise wenige Minuten)
 
-Zu anderen Stdäten Kann man per Luftschiff reisen, die an vielen der
-Wolkenkrazern andocken. Kleiner Ortschaften sind mit stündlich verkerenden
+Zu anderen Städten Kann man per Luftschiff reisen, die an vielen der
+Wolkenkratzern andocken. Kleiner Ortschaften sind mit stündlich verkehrenden
 Bussen angeschlossen. Sollte man Irgendwo hin wollen, die von keinem der
 genannten mittel angefahren wird, kann man ein Taxi Rufen. Diese sieht man sehr
-selten, allerdings gibt es an jeder Haltestelle die möglichkeit ein solches zu
+selten, allerdings gibt es an jeder Haltestelle die Möglichkeit ein solches zu
 rufen.
 
 # Prolog
 
 Der Prolog dient ein Gefühl für die VRs zu bekommen. Die Spieler erhalten
 vorgefertigte Charaktere eines Fantasy RPGs. Zwei dinge sollten die Spieler
-erfahren, Man spürt zwar berührungen und hat auch eine art schmerzempfinden,
+erfahren, Man spürt zwar Berührungen und hat auch eine Art schmerzempfinden,
 aber es ist eher ein unangenehmes Ziehen als ein Wirklicher schmerz. Somit ist
 es auch nicht weiter schlimm wenn man Gliedmaßen verliert. Des weiteren sind
 Interaktionen weitestehend gescriptet. Die Unterhaltung mit NPCs ist als würde
 man mit einem Tonband reden.
 
 Beginnen Sie den Prolog mit einem Kampf. Die Spieler müssen nicht Wissen das sie
-in einer VR sind. Beschreiben sie Stadtdessen das sich gegner und abgeschlagene
-Gleidmaßen einfach auflösen, selbst schwerste verletzungen nicht schmerzen
-sondern einfach nur unpraktisch sind. Und das besigte Gegner gegenstände zurück
+in einer VR sind. Beschreiben sie Stattdessen das sich Gegner und abgeschlagene
+Gliedmaßen einfach auflösen, selbst schwerste Verletzungen nicht schmerzen
+sondern einfach nur unpraktisch sind. Und das besagte Gegner Gegenstände zurück
 lassen.
 
 ## Charaktere
@@ -127,7 +127,7 @@ lassen.
 +-------------+---+
 
 **Aspects**  
-* *High Concept* Sieger des Großen Kampftuniers
+* *High Concept* Sieger des Großen Kampfturniers
 * *Trouble* Die Phantom Gilde will meinen Kopf
 * Jede Spur führt zum Ziel
 
@@ -181,13 +181,13 @@ Dieb
 +-------------+---+
 
 **Aspects**  
-* *High Concept* Das Richtge Werkzeug für den Richtigen Job
+* *High Concept* Das richtge Werkzeug für den Richtigen Job
 * *Trouble* Immer auf die kleinen
 * 
 
 **Stunt**
 * Fake Death  
-  Einmal in der Session: Nachdem erhalten einer Konsequnz erzeuge einen Vorteil
+  Einmal in der Session: Nachdem erhalten einer Konsequenz erzeuge einen Vorteil
 
   
 ###　B@rd0r!
@@ -242,7 +242,7 @@ Elf
 
 **Stunt**
 * Nachsicht  
-  Weil ich Nachtsicht habe, ich bekomme einen +2 Bonus wenn ich Flashy angreife und es ist nacht.
+  Weil ich Nachtsicht habe, ich bekomme einen +2 Bonus wenn ich Flashy angreife und es Nacht ist.
 
 
 
@@ -276,17 +276,17 @@ Elf
 
 ```
 
-Der Kampf sollte Kurz aber actionreich sein. Im idealfall verliert einer der
+Der Kampf sollte Kurz aber actionreich sein. Im Idealfall verliert einer der
 Spieler einen Arm. Beschreib es wie ein unangenehmes Ziehen und das sich der
-Körperteil in leuchtenden staub verweandelt und vom Wind verwhet wird. Kein
+Körperteil in leuchtenden staub verwandelt und vom Wind verweht wird. Kein
 Blut.
 
-Nachdem die Bestie besigt ist, löst sie sich ebenfalls so auf. Sie hinterlesst allerdings 
+Nachdem die Bestie besiegt ist, löst sie sich ebenfalls so auf. Sie hinterlässt allerdings 
 * Mandibeln
 * Giftdrüse
 * Zerbrochenes Horn.
 
-Beschreib die Enteuchung der Spieler, das es schonwieder nur ein Zerbrochenes
+Beschreib die Enttäuschung der Spieler, das es schon wieder nur ein Zerbrochenes
 Horn ist, und nicht die seltene ganze variante. Vor den Spielern erscheint eine
 Schrift in der Luft.
 `Bringt die Mandibeln zum Bauern Alfred um die Quest abzuschließen`
@@ -312,7 +312,7 @@ enthalten ist.
 
 [![Plakat](Veronika.png)]
 
-Das Plakat hat ausgerrissene Ecken, sieht aus als wäre es schon etwas ausgebleicht und wurde in der Vergangenheit öffters nass. Auf der Rückseite steht ein URL, eine
+Das Plakat hat ausgerissene Ecken, sieht aus als wäre es schon etwas ausgebleicht und wurde in der Vergangenheit öfters nass. Auf der Rückseite steht ein URL, eine
 Nutzerkennung und ein Passwort. Unterschrieben mit `Sebastian` 
 
 Mit Hilfe der Daten kann man einen Account für ein VR spiel erstellen. Die Liste
@@ -327,7 +327,7 @@ Bringen Sie die Spieler dazu sich gemeinsam einzuloggen.
 > nicht wahr bevor euch auffällt das eure Avatare exakt so aussehen wie Ihr. Nur
 > eure Klamotten sind andere als wert ihr Darsteller in einem 30er Jahre Film.
 
-Die Spieler sollten jetzte einen Moment haben zu reagiren und sich zu wundern,
+Die Spieler sollten jetzt einen Moment haben zu reagieren und sich zu wundern,
 eventuelle. Wenn sie sich weiter umsehen oder sich umdrehen bekommen Sie weitere
 eindrücke.
 
@@ -339,19 +339,19 @@ eindrücke.
 
 Wenn sich die Spieler den Baum anschauen finden sie mehrere Plakate zu
 verschiedenen Clubs und Bigbands. Ein sehr Zentrales Plakat wurde scheinbar vor
-kurzem Abgerrissen. Die abgerissenen Ecken sind noch nicht verblasst. Neben dem
+kurzem Abgerissen. Die abgerissenen Ecken sind noch nicht verblasst. Neben dem
 Abgerissenem Plakat befindet sich eines was Informationen zu einem Nachtklub
-besitzt. Der `Chees Club` Rühmt sich die Sängering Veronika für ein Jahr als
-Gastsängerin zu beherbergen. Dazu eineige hervorgehobene Speisen, Getränke und
+besitzt. Der `Chees Club` Rühmt sich die Sängerin Veronika für ein Jahr als
+Gastsängerin zu beherbergen. Dazu einige hervorgehobene Speisen, Getränke und
 weitere Informationen
 
 Die Spieler besitzen Ausweise etwas Bargeld und eine Kreditkarte Eventuell
-zusätzlich noch weitere Passende Gegenstände je nach aspekten des Charakters.
+zusätzlich noch weitere Passende Gegenstände je nach Aspekten des Charakters.
 Die Spieler sollten keine Finanziellen Probleme haben wenn sie mit Kreditkarte
 bezahlen. Allerdings haben sie erstmal keine Möglichkeit Ihren Kreditrahmen zu
 erfahren. Dies sollte verhindern das sie mit Geld um sich werfen aber dennoch
 muss man nicht haarklein Buch führen. Sollten Sie es übertreiben können Sie
-immernoch eine Warnung der Kreditgeselchaft austellen die die Einhaltung des
+immernoch eine Warnung der Kreditgeschäft ausstellen die die Einhaltung des
 Kreditrahmens anmahnt.
 
 Es dauert nicht lange bis ein Bus vom `Alten Himmel` in Die Stadt `Satora`
@@ -378,34 +378,34 @@ Nachrichten die man sieht wenn man ein Exemplar Kauft
 ## Der Chess Club
 
 In dem Club kann eine Probe Mitgliedschaft erworben werden, man scheint sehr auf
-Diskretion bedacht und keine Fragen zu stellen, Jeder kann mitglied werden.
+Diskretion bedacht und keine Fragen zu stellen, Jeder kann Mitglied werden.
 
 Die Front des Clubs besitzt eine Große Leuchtreklame die Den Namen in
-Geschwungener Schrift darstellt. Der Eingang ist einige Meter von der straße
-Zurückgesetzt sodass das Gebäude selbst einen schutz vor regen für die Wartenden
+Geschwungener Schrift darstellt. Der Eingang ist einige Meter von der Straße
+Zurückgesetzt sodass das Gebäude selbst einen Schutz vor regen für die Wartenden
 Besucher darstellt. An den Seiten laufen die Wände in einem 45° Winkel auf den
-Eingang zu, eine Große Doppelflügige Tür die aus dunklem Holz mit Gold einläßen.
-In einigem Abstand vor der Tür befindet sich ein Pult an dem der Portie die
+Eingang zu, eine Große Doppelflügiegen Tür die aus dunklem Holz mit Goldeinlässen.
+In einigem Abstand vor der Tür befindet sich ein Pult an dem der Portier die
 Gäste empfängt.
 
 In diesem Viertel seid Ihr schon an einigen Clubs vorbeigekommen, dies mag nicht
-der Prunkvollste von Ihnen sein, aber er ist nicht allzuweit davon entfernt.
+der Prunkvollste von Ihnen sein, aber er ist nicht allzu weit davon entfernt.
 
-Der Portie wird die Spieler fragen ob sie Mitglied sind und Ihnen ansonsten eine
+Der Portier wird die Spieler fragen ob sie Mitglied sind und Ihnen ansonsten eine
 Mitgliedschaft anbeten. Anschließend wird ein Page die Gruppe an der Pforte
 abholen und zu Ihrem Platz bringen.
 
 Die Gänge sind Breit und immer wieder gesäumt von Kunstwerken, nicht Viele, was
-aber nur Ihre Exclusivität hervorzuheben scheint. Der Rote Tepisch leitet den
+aber nur Ihre Exklusivität hervorzuheben scheint. Der Rote Teppich leitet den
 Weg zum Hauptsaal. Beim betreten dieses erhält die Gruppe eine Gute Übersicht
-des Risigen Raumes. Die beleuchtung ist stark gedimmt so das der Fokus
+des Riesigen Raumes. Die Beleuchtung ist stark gedimmt so das der Fokus
 vollkommen auf die Hellerleuchtete zentrale Bühne gelenkt wird auf der Zurzeit
 eine Bigband spielt. Alles in diesem Raum scheint auf diese Ausgerichtet zu
-sein. Der Raum ist auf 3 Ebenen aufgeteilt auf jeder Ebene befinden sich mehere
+sein. Der Raum ist auf 3 Ebenen aufgeteilt auf jeder Ebene befinden sich mehrere
 Runde Tische mit kleinen schwach leuchtenden Lampen, hell genug zu Sehen das
 sich dort ein Tisch befindet, aber nicht stark genug um zu erkennen wer dort
 sitzt. Die Tische haben genügend Abstand voneinander und mit einigen
-Pflanzkübeln dazwischen so dass man sich ungestört unterhalten kann unbehälligt
+Pflanzkübeln dazwischen so dass man sich ungestört unterhalten kann unbehelligt
 von den Anderen Gästen und mit freiem Blick auf die Bühne. Neben den Tischen
 kann man auch noch auf der oberster Ebene eine Bar sehen an die man sich setzen
 kann.
@@ -501,29 +501,29 @@ die wie ein Log aussehen.
 
 #### Die Mordserie
 
-Über die Letzen Monate ereignetten sich viele Morde deren Zeitungsartikel sich
+Über die Letzen Monate ereigneten sich viele Morde deren Zeitungsartikel sich
 hier finden. Aber auch zu einigen Unfällen kann man Informationen Finden.
 
 Es schein etwas gedauert zu haben bis die Öffentlichkeit die Einzelnen Morde
 miteinander verknüpfte, da Sie außer der Schwierigkeit der Leichen zu finden 
 keine Gemeinsamkeit haben. Sie sind so unterschiedlich wie sie nur Sein konnten.
 
-Es scheint eine regelmäßigkeit zu geben die Hervorgehoben wurde, die Ersten
+Es scheint eine Regelmäßigkeit zu geben die Hervorgehoben wurde, die Ersten
 fälle sind Unregelmäßig, dann gibt es eine längere Pause, danach treten die
-Fälle quasie wöchentlich auf.
+Fälle quasi wöchentlich auf.
 
 Die Unterlagen gehen bis kurz vor dem Tod von `Sebastian`.
 
 #### Die Logliste
 
-Es dauert etwas die gesammte Liste durchzugehen.
+Es dauert etwas die gesamte Liste durchzugehen.
 
 In der Liste sind vor allem einige Loginvorgänge markiert. Von 2 Accounts, Kurz
 bevor ein Eintrag zur Löschung des erstens auftaucht wird der zweite angelegt,
-im gegensatz zum ersten ist dies ein Externer Account der scheinbar von
-ausserhalb des internen Netzes genutzt werden kann.
+im Gegensatz zum ersten ist dies ein Externer Account der scheinbar von
+außerhalb des internen Netzes genutzt werden kann.
 
-Bei genauerer untersuchung nicht nur der Markierten findet sich auch das
+Bei genauerer Untersuchung nicht nur der Markierten findet sich auch das
 anlegen der Accounts der Spieler, und des Verstorbenen. Sowie dessen
 nutzungsverhalten.
 
@@ -531,11 +531,13 @@ Die Unterlagen gehen bis kurz vor dem Tod von `Sebastian`.
 
 #### Das Forschungslabor
 
-Es gibt nicht viele Informationen über das Forschungs labor Zeitungsartikel
+Es gibt nicht viele Informationen über das Forschungslabor Zeitungsartikel
 einige Genehmigungen und Fotographien. Das Labor scheint ein
-Grundlalgenforschung im bereich der Teilchenphysik zu betreiben.
+Grundlagenforschung im Bereich der Teilchenphysik zu betreiben.
 
 Bei genauerer Betrachtung scheinen die Bilder Unterschiedlich zu sein, Die Gebäude sind ähnlich, aber die Umgebung sieht Anders aus, während auf der einen ein kleiner Wald zu stehen scheint, sitzt die andere Auf einem Hügel.
+
+[![Grundriss Forschungslabor](Bilder/Forschungsstation.png)]
 
 #### Politische Entwicklung
 
@@ -557,14 +559,14 @@ und einigem Papierkram.
 ### Der Schreibtisch
 
 Einige geöffnete Briefe liegen auf dem Tisch. Neben einigen Lieferscheinen auch
-follgendes:
+folgendes:
 
 > Kommen Sie an das Ufer des 3. Flusses, wenn Sie Antworten auf Ihre Fragen
 > haben wollen.
 
-Das Datum der Lieferscheine ist `Sebastians` todestag. 
+Das Datum der Lieferscheine ist `Sebastians` Todestag. 
 
-## Sebastians entdeckung
+## Sebastians Entdeckung
 
 Von den Infos sollten die Spieler in der Lage sein herauszufinden das sie Infos
 in der Zeitung kurz nach dem Todestag `Sebastians` finden könnten.
@@ -575,6 +577,8 @@ im Koma liegt.
 Er wurde Treibend im Fluss gefunden.
 
 Sollten Die Spieler nicht in der Lage sein dies Herauszufinden, kann Jemand Sie nach einigen tagen Informieren das `Sebastian` gefunden wurde.
+
+Er liegt im Krankenhaus.
 
 ## Das Forschungslabor
 
@@ -589,20 +593,20 @@ Mann kann eigentlich nur einbrechen.
 
 Wenn man durch die Flure geht, sieht es nur Oberflächlich aus als würde es
 genutzt werden. In Akten liegen nur Leere Zettel und bei Papierstapeln ist nur
-die Erste Seite Bedrukt, und das mit auf den Zeiten blick Nonsens.
+die Erste Seite Bedruckt, und das mit auf den Zeiten blick Nonsens.
 
-Der Hauptgang Läuft einmal rund um das Gebäude mit Büros an den Aussenseiten.
+Der Hauptgang Läuft einmal rund um das Gebäude mit Büros an den Außenseiten.
 Wenn man Ihn Abläuft kommt man auch am Empfang vorbei.
 
 Es Gibt nur eine Größere Tür die zum Zentrum führt. Dort steht man in eine Art
 Kontrollraum mit schrägen aussichtsfenstern ins innere.
 
 In Diesem Ist ein gewaltiger Raum, der 30m oder mehr in die Tiefe Reicht.
-Surreal Anmaßend steht eine gewaltige Apparatur wie aus einem SciFi Film. Plize
-springen von einer Teslaspule zur nächsten, Ringe Drehen sich um Mehere Achsen
-schwebend ind der Luft. Duzende Streben und Rohre Führen wie ein Labyrinth
-undurchsichtig durch den Raum. Und überall sind Myseriöse lecuhtende Symbole und
-Lienien.
+Surreal Anmaßend steht eine gewaltige Apparatur wie aus einem Sci-Fi Film. Blitze
+springen von einer Teslaspule zur nächsten, Ringe Drehen sich um Mehrere Achsen
+schwebend in der Luft. Duzende Streben und Rohre Führen wie ein Labyrinth
+undurchsichtig durch den Raum. Und überall sind Mysteriöse leuchtende Symbole und
+Linien.
 
 Vom Überwachungsraum führt eine Leiter Nach unten. Über mehrere Stege und
 weitere Leitern gelangt man schließlich auf den Boden. In dessen Zentrum
@@ -610,14 +614,14 @@ befindet sich ein großer Leuchtender Kreis der Ebenfalls mit merkwürdigen Lini
 und Zeichen versehen ist.
 
 auf der Andern Seite des Raumes führt wieder eine Leiter nach oben, ähnlich wie
-auf dem Hinweg über mehere Stege. An dessen Ende befindet sich wieder ein
+auf dem Hinweg über mehrere Stege. An dessen Ende befindet sich wieder ein
 Kontrollraum. Wenn man Ihn wieder verlässt befindet man sich wieder auf dem
 Schon bekannte Flur.
 
 Aber es gab nur eine Tür die zur Mitte führte warum ist hier noch eine Zweite?
-Die Spieler sind zurück in Ihrere Eigenen Welt (als Ihre Avatare)
+Die Spieler sind zurück in Ihrer Eigenen Welt (als Ihre Avatare)
 
-Ausserhalb des Forschungszentrum können die Spieler von einem Hügel herab Ihre
+Außerhalb des Forschungszentrum können die Spieler von einem Hügel herab Ihre
 Stadt sehen.
 
 Im Forschungszentrum können Sie herausfinden welcher Person zum Login gehört.
@@ -627,70 +631,79 @@ Und auch seine Letzte bekannte Adresse.
 
 Der Täter heißt `Tim Müller`. Er war angestellter des Forschungslabors.
 
-jenachdem wie auffällig sich die Spieler verhalten, kann der Tätter Ihnen
+Je nachdem wie auffällig sich die Spieler verhalten, kann der Täter Ihnen
 bereits auf der Spur sein.
 
 Andernfalls können Sie versuchen Ihn in Seiner Wohnung zu stellen.
 
 Dies sollte der Klimax des Abenteuers sein und für die Spieler entsprechend
-spannend. Jenachdem wie kampferprobt die Charaktere sind, kann dies ein Offener
+spannend. Je nachdem wie kampferprobt die Charaktere sind, kann dies ein Offener
 Kampf, eine Verfolgungsjagd oder ein Hinterhalt werden.
 
-Es wäre gut wenn er nicht einfach stirbt, da sein gespräch noch ein paar
-iformationen birgt.
+Es wäre gut wenn er nicht einfach stirbt, da sein Gespräch noch ein paar
+Informationen birgt.
 
-Am ende sollte ein Mysteriöser Gentelman die Bühne betreten, entweder als Deus
-Ex Machina um die Spieler aus ihrer misslichen Lage zu befreien oder nachdem
+Am ende sollte ein Mysteriöser Gentleman die Bühne betreten, entweder als Deus
+Ex-Machina um die Spieler aus ihrer misslichen Lage zu befreien oder nachdem
 diese Ihren Feind gestellt haben.
 
-Im idealfall argumentiert der Täter das die Personen in der Simulation nur NPC
-sind und nicht wirklich leben, worauf der Gentelman erwieder das sie sich somit
+Im Idealfall argumentiert der Täter das die Personen in der Simulation nur NPC
+sind und nicht wirklich leben, worauf der Gentleman erwidert das sie sich somit
 nicht von Ihm Unterschieden.
 
-Prinzipiell klärt der Gentelman die Spieler auf das sie selbst eine VR sind.
+Prinzipiell klärt der Gentleman die Spieler auf das sie selbst eine VR sind.
 Lassen Sie ihn aber Kurzangebunden wirken und alles was er erklärt wie eine
 Selbstverständlichkeit wirken.
 
-Der GEntalman heißt `Ruthworth` und erklärt den Spielern das Ihre Welt und alle
+Der GGentleman heißt `Ruthworth` und erklärt den Spielern das Ihre Welt und alle
 Anderen dem Untergang geweiht sind. Immer mehr Fehler schleichen sich ein und er
 versucht dies zu ändern.
 
-Er selbst stammt aus einer simulation des zweiten levels, also eine Simulation
-die von der Ursprünglichen simulation erschaffen wurde. die Spieler stammen aus
+Er selbst stammt aus einer Simulation des zweiten Levels, also eine Simulation
+die von der Ursprünglichen Simulation erschaffen wurde. die Spieler stammen aus
 einer VR der 4. stufe.
 
-Dies ist das Ende des Ersten Aktes die Spieler können nun Aufleveln. Prinzipiell
-können auch sehr fantastiche Fähigkeiten wie fliegen und ähnliches gewählt
-werden, da die spieler
+Dies ist das Ende des Ersten Aktes die Spieler können nun Auf Leveln. Prinzipiell
+können auch sehr fantastische Fähigkeiten wie fliegen und ähnliches gewählt
+werden, da die Spieler einen Blick hinter die Welt werfen konnten.
 
 # Akt II Die Rettung der Welt
 
 Die Spieler müssen in diesem Abschnitt einen Weg in die oberste VR finden. Von
-da aus, so die Hoffnung erhalten sie zugriff auf die kernsysteme und können
-herausfinden was den Untergang Ihrer welt auslößt.
+da aus, so die Hoffnung erhalten sie zugriff auf die Kernsysteme und können
+herausfinden was den Untergang Ihrer Welt auslöst.
 
 - Die Spieler können Portale nutzen um Bis in `Ruthworth` Welt zu gelangen. Die
   Schriftzeichen, die von den Portalen verwendet werden stammen nicht von Ihm,
-  sondern wurden von Ihm in alten Ruinen entddeckt. Zusammen mit Hilfe von
+  sondern wurden von Ihm in alten Ruinen entdeckt. Zusammen mit Hilfe von
   Legenden konnte er sie wiedererwecken.
 - Ein Portal erlaubt es in eine Untergeordnete VR zu gelangen oder in eine auf
   der Selben Ebene, aber nciht aus einer VR auszubrechen und eine ebene höher zu
   gelangen.
-- 
+
+
+`Ruthworth` erteilt den Spielern den Auftrag nach seine Assistentin `Yara` zu
+suchen, die vor einiger Zeit verschwunden ist. Sie ist einigen Hinweise zur
+Herkunft der Portalglyphen nachgegangen in der Hoffnung diese besser zu
+verstehen und eine Lösung Ihres Problems zu finden.
+
+Die Spieler bekommen noch `Miles` zur Seite gestellt ein Junge der einfache
+Hilfstätigkeiten ausführt. Er soll den Spielern Helfen sich in dieser neuen Welt
+zurecht zu finden.
 
 ## Steamworld
 
-`Ruthworth` Welt ist eine Primär mit Dampfkraft angetribene Steampunk welt. Als
+`Ruthworth` Welt ist eine Primär mit Dampfkraft angetriebene Steampunk Welt. Als
 Energiequelle dienen die nahezu überall vorkommenden Heißen quellen. Die
-Landschaft ist Steinig und karg. Auf den WEiten ebenen erheben sich immer wieder
-unterschiedliche steinformationen, der boden ist je nach region rötlich über
-gelb bis hin zu schwarz. Und sehr Sandig. Der Wind ist entweder Staubtroken oder
+Landschaft ist Steinig und karg. Auf den weiten Ebenen erheben sich immer wieder
+unterschiedliche Steinformationen, der Boden ist je nach Region rötlich über
+gelb bis hin zu schwarz. Und sehr Sandig. Der Wind ist entweder Staubtrocken oder
 extrem Feucht aufgrund eine der Heißen Quellen.
 
 Das Land ist immer wieder durch Risse durchzogen an dessen Grund Kaltes klares
-wasser fließt. An manchen stellen weitet sich eine solche Klamm zu einem Tal.
+Wasser fließt. An manchen stellen weitet sich eine solche Klamm zu einem Tal.
 Dies sind Orte des Lebens und sie sind überfüllt mit Pflanzen und Tieren. 
-Offt wird an solchen Orten Landwirtschaft betrieben.
+Oft wird an solchen Orten Landwirtschaft betrieben.
 
 In den Oberen Teilen werden oft Obstbäume genutzt, weiter unten wo der Boden
 nasser wird vor allem Sumpfpflanzen, Schilfe und Reis.
@@ -698,18 +711,18 @@ nasser wird vor allem Sumpfpflanzen, Schilfe und Reis.
 ## Die Leere
 
 In Steamworld aber auch in vielen Anderen Welten gibt es die Leere. Bereiche in
-denen sich nahezu kein leben findet. Der Boden dort ist unaufällig, abgesehen
-von Gras findet sich dort keine Vegitation. Und auch dieses ist nur da wenn es
+denen sich nahezu kein leben findet. Der Boden dort ist unauffällig, abgesehen
+von Gras findet sich dort keine Vegetation. Und auch dieses ist nur da wenn es
 in der Umgebung prinzipiell vorkommt. In Steamworld ist dies normalerweise nicht
-der Fall. Die Regionen besitzen keine Auffäligen strukturen und sind
+der Fall. Die Regionen besitzen keine auffälligen Strukturen und sind
 normalerweise Flach. Ihr auffälligstes Merkmal ist das fehlen jeglicher
-natürlicher geräuch , keine Tiere kein wind. Abgesehen von den Personen die sich
-in Ihr aufhalten, gibt es keine geräuche.
+natürlicher Geräusch , keine Tiere kein wind. Abgesehen von den Personen die sich
+in Ihr aufhalten, gibt es keine Geräusche.
 
 Es ist sehr gefährlich sich durch die leere zu bewegen. Immer wieder kommt es zu
 einem lauten Ohrenbetäubenden Summen das schubweise immer lauter wird. Wenn es
-sein maximum erreicht hat, verschwindet der gesamte bereich und es hercht wieder
-absolute stile. Nur ein weißer Fleck bleibt zurück. Nach einiger Zeit erscheint
+sein maximum erreicht hat, verschwindet der gesamte Bereich und es herrscht wieder
+absolute Stille. Nur ein weißer Fleck bleibt zurück. Nach einiger Zeit erscheint
 der Boden wieder, aber alles was in Ihm war ist für immer verloren und erscheint
 nicht mehr wieder.
 
