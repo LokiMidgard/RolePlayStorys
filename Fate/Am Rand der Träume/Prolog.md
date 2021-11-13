@@ -14,6 +14,13 @@ Gliedmaßen einfach auflösen, selbst schwerste Verletzungen nicht schmerzen
 sondern einfach nur unpraktisch sind. Und das besagte Gegner Gegenstände zurück
 lassen.
 
+Sie sollten Vorgefertigte Charaktere verwenden. Nach dem Prolog können Sie Ihre
+eigenen Charaktere erstellen, was in Fate nicht lange dauert. In diesem Projekt
+befinden sich Vorgefertigte PDF, die Beidseitig ausgedruckt werden können. Der
+Acrobat Reader hat eine Einstellung mehrere Blätter pro Seite. Diese auf 2
+eingestellt kombiniert mit beidseitigem Druck, erzeugt die Vorgefertigten
+Charaktere mit einer Blanken Rückseite.
+
 ## Charaktere
 
 ### Johan_Sons Kriger
