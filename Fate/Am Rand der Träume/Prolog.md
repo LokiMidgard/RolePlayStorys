@@ -25,19 +25,14 @@ Charaktere mit einer Blanken Rückseite.
 
 ### Johan_Sons Kriger
 
-+-------------+---+
+| Aproach     |   |
+|-------------|---|
 | Carefull    | 1 |
-+-------------+---+
 | Clever      | 0 |
-+-------------+---+
 | Flashy      | 2 |
-+-------------+---+
 | Forcefull   | 3 |
-+-------------+---+
 | Quick       | 2 |
-+-------------+---+
 | Sneaky      | 1 |
-+-------------+---+
 
 **Aspects**  
 * *High Concept* Sieger des Großen Kampfturniers
@@ -52,19 +47,14 @@ Charaktere mit einer Blanken Rückseite.
 
 Magier
 
-+-------------+---+
+| Aproach     |   |
+|-------------|---|
 | Carefull    | 2 |
-+-------------+---+
 | Clever      | 3 |
-+-------------+---+
 | Flashy      | 2 |
-+-------------+---+
 | Forcefull   | 1 |
-+-------------+---+
 | Quick       | 1 |
-+-------------+---+
 | Sneaky      | 0 |
-+-------------+---+
 
 **Aspects**  
 * *High Concept* Träger des Stabes von Avalon
@@ -79,19 +69,14 @@ Magier
 
 Dieb
 
-+-------------+---+
+| Aproach     |   |
+|-------------|---|
 | Carefull    | 2 |
-+-------------+---+
 | Clever      | 1 |
-+-------------+---+
 | Flashy      | 1 |
-+-------------+---+
 | Forcefull   | 0 |
-+-------------+---+
 | Quick       | 2 |
-+-------------+---+
 | Sneaky      | 3 |
-+-------------+---+
 
 **Aspects**  
 * *High Concept* Das richtige Werkzeug für den Richtigen Job
@@ -107,19 +92,14 @@ Dieb
 
 Zwerg
 
-+-------------+---+
+| Aproach     |   |
+|-------------|---|
 | Carefull    | 3 |
-+-------------+---+
 | Clever      | 1 |
-+-------------+---+
 | Flashy      | 1 |
-+-------------+---+
 | Forcefull   | 2 |
-+-------------+---+
 | Quick       | 0 |
-+-------------+---+
 | Sneaky      | 1 |
-+-------------+---+
 
 **Aspects**  
 * *High Concept* Eine Haut wie aus Stahl
@@ -134,19 +114,14 @@ Zwerg
 
 Elf
 
-+-------------+---+
+| Aproach     |   |
+|-------------|---|
 | Carefull    | 1 |
-+-------------+---+
 | Clever      | 2 |
-+-------------+---+
 | Flashy      | 3 |
-+-------------+---+
 | Forcefull   | 0 |
-+-------------+---+
 | Quick       | 2 |
-+-------------+---+
 | Sneaky      | 1 |
-+-------------+---+
 
 **Aspects**  
 * *High Concept* Einsamer Jäger der Wildnis
@@ -155,25 +130,20 @@ Elf
 
 **Stunt**
 * Nachsicht  
-  Weil ich Nachtsicht habe, ich bekomme einen +2 Bonus wenn ich Flashy angreife und es Nacht ist.
+  Weil ich Nachtsicht habe, ich bekomme einen |2 Bonus wenn ich Flashy angreife und es Nacht ist.
 
 ##　Jasper
 
 Affenmensch
 
-+-------------+---+
+| Aproach     |   |
+|-------------|---|
 | Carefull    | 2 |
-+-------------+---+
 | Clever      | 1 |
-+-------------+---+
 | Flashy      | 3 |
-+-------------+---+
 | Forcefull   | 2 |
-+-------------+---+
 | Quick       | 1 |
-+-------------+---+
 | Sneaky      | 0 |
-+-------------+---+
 
 **Aspects**  
 * *High Concept* Meister aller Waffenloser Kampfkunst
@@ -182,7 +152,7 @@ Affenmensch
 
 **Stunt**
 * Meister des Waffenlosenkampfes Wenn mich mein gegner mit blosen Fäusten
-  angreift und ich Flashy pariere, erhalte ich +2
+  angreift und ich Flashy pariere, erhalte ich |2
 
 
 
@@ -200,19 +170,14 @@ Affenmensch
 ```
  Kampf :)
 
-+-------------+---+
+| Aproach     |   |
+|-------------|---|
 | Carefull    | 3 |
-+-------------+---+
 | Clever      | 1 |
-+-------------+---+
 | Flashy      | 3 |
-+-------------+---+
 | Forcefull   | 5 |
-+-------------+---+
 | Quick       | 5 |
-+-------------+---+
 | Sneaky      | 6 |
-+-------------+---+
 
 ```
 
