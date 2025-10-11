@@ -1,5 +1,8 @@
 {
     "spellright.language": [
         "de"
-    ]
+    ],
+    "[markdown]": {
+        "editor.cursorSurroundingLines": 0
+    }
 }
