@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gruppe">
+  <circle cx="8" cy="8" r="2.2" fill="#FFDDB3" stroke="#222" stroke-width="0.9"/>
+  <circle cx="16" cy="8" r="2.2" fill="#FFDDB3" stroke="#222" stroke-width="0.9"/>
+  <path d="M4 14c0-2.5 2-4 4-4s4 1.5 4 4" stroke="#222" stroke-width="0.9" fill="none" stroke-linecap="round"/>
+  <path d="M12 14c0-2.5 2-4 4-4s4 1.5 4 4" stroke="#222" stroke-width="0.9" fill="none" stroke-linecap="round"/>
+  <ellipse cx="12" cy="17.5" rx="8" ry="2.2" fill="#FFF4E0" stroke="#222" stroke-width="0.7"/>
+</svg>

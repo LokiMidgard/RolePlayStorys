@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Verstrickungen">
+  <path d="M4 6c4 2 6 6 10 8s6 0 6-2" stroke="#222" stroke-width="0.9" fill="none" stroke-linecap="round"/>
+  <path d="M4 18c4-2 6-6 10-8s6 0 6 2" stroke="#222" stroke-width="0.9" fill="none" stroke-linecap="round"/>
+  <circle cx="6" cy="6" r="0.8" fill="#FFE6E6" stroke="#222" stroke-width="0.5"/>
+  <circle cx="18" cy="6" r="0.8" fill="#FFE6E6" stroke="#222" stroke-width="0.5"/>
+  <circle cx="12" cy="12" r="1" fill="#FFF4E0" stroke="#222" stroke-width="0.5"/>
+</svg>

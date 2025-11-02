@@ -1,0 +1,152 @@
+
+- Identität
+  - Nr 1\nWas ist dein Name?
+  - Nr 2\nWas ist dein Name?
+  - Nr 3\nWas ist dein Name?
+  - Nr 4\nWas ist dein Name?
+  - Nr 5\nWas ist dein Name?
+  - Nr 6\nWas ist dein Name?
+- Verstrickungen
+  - � ist Nr 1
+  - � ist Nr 2
+  - � ist Nr 3
+  - � ist Nr 4
+  - � ist Nr 5
+  - � ist Nr 6
+- Aussehen
+  - Du siehst Jünger aus als du bist, wo hat das schomal geholfen?
+  - Du hast eine auffällige Narbe, wie hast du die bekommen?
+  - An deinem Körper ist ein Unheilvolles Mal das niemand sehen darf, wo ist das und was bedeutet es?
+    - indigo
+  - Du hast ein auffälliges Tattoo im Gesicht, was stellt es dar und was bedeutet es?
+  - Du hast eine ungewöhnliche Haarfarbe, wie kam das?
+  - Du bist muskulös und kräftig, wie hast du das erreicht?
+    - magenta
+  - Du bist sehr anziehend, wie setzt du das ein?
+  - Du hast eine auffällige Frisur, warum hast du die?
+  - Du trägst immer Schmuck, was hat das für eine Bedeutung?
+
+- Ausrüstung
+  - Was ist in deiner Gürteltasche?
+  - Was ist alles in deinem großen Rucksack?
+  - Was hast du in den Hosentaschen?
+  - Warum hast du nichts ausser deinen Kleidern am Leib?
+    - indigo
+  - Du hast weniger als alle anderen, nur dein Nachthemd. Warum ist das für dich kein problem?
+    - indigo
+  - Welchen großen/unhandlichen Gegenstand hast du dabei, und warum lässt du ihn auf keinen fall zurück?
+  - Du bist auf alles vorbereitet, wie kommt es das du in deinem Rucksack so viel unterschiedliches Zeug hast?
+    - green
+  - Welches antike Erbstück hast du dabei? Und welche Legenden ranken sich darum?
+  - Was ist in deinem Aktenkoffer, an den du niemanden rann lässt?
+  - Was hast du alles in deiner Handtasche?
+
+- Gruppe
+  - Wie behandeln dich die anderen, da du mit abstand der/die Jüngste in der Gruppe bist?
+  - Warum sind dir alle in der Gruppe Suspekt, ausser �?
+  - Welche Aufgabe übernimmst du in der Gruppe, ohne dass je jemand darum bittet?
+  - Was hast du einem anderen Gruppenmitglied getan, das jetzt verschwunden ist?
+    - indigo
+  - Wem bist du etwas schuldig – und wie willst du es wiedergutmachen?
+  - Du warst kein Hotelgast – wo kommst du her, und wovor gibt dir die Gruppe Schutz?
+  - Was für starke Gefühle hegst du für �? Wie drückt sich das aus?
+  - Du suchst einen gesuchten Verbrecher der im Hotel war, welcher hinweis hat dich hierher geführt?
+    - green
+  - Du bist ein gesuchtre Verbrecher, was hast du getan und warum bist du hierher geflohen?
+    - indigo
+    - green
+  
+
+- Vergangenheit (2×)
+  - Als du aufgewacht bist hast du gleich gemerkt das jemand dir wichtiges fehlt, wer war das?
+  - Du wustets das etwas schlimmes passieren würde, warum?
+  - Was hast du getan, das du jetzt bereust?
+  - Du hast Blut an deinen Händen, was ist passiert?
+  - Wie hast du herausgefunden, das du ein Werwolf bist?
+    - magenta
+    - indigo
+  - Du warst nicht zufällig im Hotel, was war dein Auftrag?
+  - Du bist mit allen Wassern gewaschen, was ist dein dunkles Geheimnis?
+  - Du warst auf der Flucht und wolltest dich im Hotel verstecken, vor wem oder was?
+  - Niemand darf erfahren das du dieser Gruppe angehörst, oder alle sind in Gefahr, warum? Welche Gruppe?
+    - indigo
+  - Niemand würde dir Glauben, was du kannst, viele nichtmal wenn sie es mit eigenen Augen sehen, da es nicht sein kann. Was kannst du?
+    - magenta
+  - Eine Vision brachte dich in das Hotel, was hast du gesehen?
+  - Warum verfolgst du � so verbissen?
+  - Du hast dein gesammtes Leben umgekrempelt, was war der auslösende Faktor?
+  - Du hast etwas getan, das du nie wieder gutmachen kannst, was war das?
+  - Du und � seid euch schonmal begegnet, er hat dein Geheimnis entdeckt. Du hast dafür gesorgt das er es wieder vergisst, wie hast du das angestellt? Und was war es? Es besteht die Gefahr das er sich wieder erinnert.
+    - indigo
+  - Das hätte nicht passieren sollen. Du warst dir sicher das es klappt. Bist du wirklich schuld hieran? Was ist schiefgelaufen? Was hätte passieren sollen?
+- Nachteile
+  - Du wurdest verflucht, was ist das für ein Fluch?
+    - indigo
+    - magenta
+  - Seidem du Denken kannst erleidest du fürchterliche Schmerzen, sobald du mit etwas bestimmten in kontakt kommst. Was is das?
+  - Du hast keine Angst, vor nichts. Was ist der Grund dafür? Wie hast du das erste mal gemerkt das dies kein vorteil ist?
+    - green
+  - Du bist süchtig nach etwas, was ist das? Wie wirkt sich das auf dein Leben aus?
+  - � hat was an sich das dir Angst macht, was ist das?
+  - Welche Albträume quälen dich jede Nacht?
+  - Welche alttägliche Aufgabe fällt dir unheimlich schwer?
+  - Warum hast du so große Angst vor der Dunkelheit?
+- Vorteile
+  - Du hast einen sechsten Sinn, was nimmst du wahr?
+    - magenta
+  - Du bist ein geborener Anführer, wie zeigst du das?
+  - Du hast eine besondere Beziehung zu Tieren, wie zeigt sich das?
+  - Du bist unheimlich geschickt mit deinen Händen, was kannst du besonders gut?
+  - Du warst schon immer ein Charmeur, wie setzt du das ein?
+  - Du bist unglaublich belastbar, physisch und psychisch. Was hat dazu geführt?
+    - green
+  - Warum velierst du nie die Nerven, selbst in den schlimmsten Situationen?
+  - Du fällst niemandemem auf, und wirst leicht übersehen und vergessen. Normalerweise ist das nicht angenehm. Wann hat es dir geholfen?
+    - indigo
+- Talente
+  - Du bist ein begnadeter Koch, was ist dein Spezialgericht?
+  - Du kannst dich an jedes Detail erinnern, was hast du damit schon erreicht?
+  - Du bist ein begnadeter Musiker, welches Instrument spielst du?
+  - Du bist ein hervorragender Handwerker, was baust oder reparierst du am liebsten?
+  - Du bist ein begnadeter Tänzer, wann hat dir das schonmal geholfen?
+  - Du bist ein hervorragender Schauspieler, wann hat dir das schonmal geholfen?
+  - Du bist ein begnadeter indigoner, wann hat dir das schonmal geholfen?
+  - Du bist ein Überlebenskünstler, wie oder wo hast du das gelernt?
+  - Du warst ein begnadeter Arzt und chirurg. Was ist passiert das du das nicht mehr ausüben willst?
+    - green
+  - Du hast eine Spezielle ausbildung erhalten, von der niemand etwas weiß. Was ist das für eine Ausbildung?
+    - green
+- Sonstiges (3×)
+  - Du hast ein besonderes Hobby, was ist das?
+  - Du bist in einer Geheimgesellschaft, welcher und warum?
+  - Du bist einen Pakt mit einem Dämon eingegangen, wofür und was musst du dafür tun?
+    - indigo
+    - magenta
+  - Du hast eine besondere Beziehung zu einem Geist, wer ist das und wie hilft er dir?
+    - magenta
+  - Du bist auf der Suche nach einem besonderen Gegenstand, was suchst du und warum?
+  - Du Weistt etwas über das Hotel, was die anderen nicht wissen. Was ist das?
+  - Du willst unbedingt ein bestimmtes Ziel erreichen, was ist das und warum?
+  - Du bist auf der Flucht, vor wem oder was?
+  - Du bist unsterblich, wie kam das? Wie lange lebst du schon? Was war deine liebste Epoche?
+    - magenta
+  - Warum magst du keine Kinder?
+  - Nicht alles was du erzählst ist wahr, was hast du zu verbergen?
+  - Was war das erste das du geklaut hast, und warum?
+  - Die meisten Menschen sagen sie würden niemanden Töten. Aber du weist das du es nicht kannst. Warum?
+  - In welcher obskuren Wissenschaftlichen disziplin bist du Experte?
+  - Was war deine Lieblingsbeschäftigung im Hotel?
+  - Was macht dich einzigartig in der Gruppe?
+  - Dein Lebensmotto ist...?
+  - Keiner kennt deine wahre Herkunft, wo kommst du wirklich her?
+  - Tiere reagieren seltsam auf dich, warum?
+  - Du hattest einen unsichtbaren Freund, wie heißt er und warum ist er für dich wichtig?
+  - Du hast eine seltsame Angewohnheit, welche ist das und warum hast du sie?
+  - Andere sehen dich als Außenseiter, warum?
+  - Warum bist du nicht gerne alleine?
+  - Warum bist du nicht gerne in Gesellschaft?
+  - Was ist dein größter Traum?
+  - Du bist Tot, wie bist du gestorben? Und warum weilst du noch unter den Lebenden?
+    - indigo
+    - magenta
+  
