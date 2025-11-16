@@ -12,7 +12,6 @@ Die Hauptfrau Dorlin Elmsjen (31) überfällt ebenfalls Händler in einem benach
 
 Kritisch ist das auch Uhdenberg seine Legion angesetzt hat diese Bande auszuräuchern. Sollten sie die Räuber aufspüren, würden die Geiseln es wohl nicht überleben.
 
-
 Frau: Yullabeth al-Jamila (die Schöne) saba Shabob (33)
 Sohn: Jachman ibn Dilhaban al-Kebîr (13)
 Tochter: Dilhabeth al-Azila (die Wildrose) saba Dilhaban al-Kebîr (16)
@@ -28,8 +27,7 @@ Die Gruppe soll das Lösegeld übergeben.
   - Sie hat zwar gezückte Waffen, aber ist durchaus zu Verhandlungen bereit. Sie scheut das Blutvergießen nicht, vermeidet es aber wenn möglich.
   - Sollte der Name Dankward fallen oder eine Andeutung wofür das Geld gebraucht wird, macht sie keinen Hehl daraus was sie von ihm hält.
   - Sie wäre auch bereit ihm das Handwerk zu legen und die Geiseln dabei zu retten. Gegen eine "kleine" Bezahlung. Ein verschwinden von Dankward ist mehr als in ihrem interresse
-- Der sturm auf das Lager. 
-
+- Der sturm auf das Lager.
 
 weibliche Namen
 • Perdia Arberdan
