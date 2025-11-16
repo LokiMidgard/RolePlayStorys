@@ -1,0 +1,1205 @@
+[
+  {
+    "question": "Nr 1<br>Was ist dein Name?",
+    "category": "identität",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Nr 2<br>Was ist dein Name?",
+    "category": "identität",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Nr 3<br>Was ist dein Name?",
+    "category": "identität",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Nr 4<br>Was ist dein Name?",
+    "category": "identität",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Nr 5<br>Was ist dein Name?",
+    "category": "identität",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Nr 6<br>Was ist dein Name?",
+    "category": "identität",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "� ist Nr 1",
+    "category": "verstrickungen",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "� ist Nr 2",
+    "category": "verstrickungen",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "� ist Nr 3",
+    "category": "verstrickungen",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "� ist Nr 4",
+    "category": "verstrickungen",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "� ist Nr 5",
+    "category": "verstrickungen",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "� ist Nr 6",
+    "category": "verstrickungen",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du siehst Jünger aus als du bist, wo hat das schomal geholfen?",
+    "category": "aussehen",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du hast eine auffällige Narbe, wie hast du die bekommen?",
+    "category": "aussehen",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "An deinem Körper ist ein Unheilvolles Mal das niemand sehen darf, wo ist das und was bedeutet es?",
+    "category": "aussehen",
+    "categoryCount": 1,
+    "color": [
+      "indigo"
+    ]
+  },
+  {
+    "question": "Du hast ein auffälliges Tattoo im Gesicht, was stellt es dar und was bedeutet es?",
+    "category": "aussehen",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du hast eine ungewöhnliche Haarfarbe, wie kam das?",
+    "category": "aussehen",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du bist muskulös und kräftig, wie hast du das erreicht?",
+    "category": "aussehen",
+    "categoryCount": 1,
+    "color": [
+      "magenta"
+    ]
+  },
+  {
+    "question": "Du bist sehr anziehend, wie setzt du das ein?",
+    "category": "aussehen",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du hast eine auffällige Frisur, warum hast du die?",
+    "category": "aussehen",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du trägst immer Schmuck, was hat das für eine Bedeutung?",
+    "category": "aussehen",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Was ist in deiner Gürteltasche?",
+    "category": "ausrüstung",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Was ist alles in deinem großen Rucksack?",
+    "category": "ausrüstung",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Was hast du in den Hosentaschen?",
+    "category": "ausrüstung",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Warum hast du nichts ausser deinen Kleidern am Leib?",
+    "category": "ausrüstung",
+    "categoryCount": 1,
+    "color": [
+      "indigo"
+    ]
+  },
+  {
+    "question": "Du hast weniger als alle anderen, nur dein Nachthemd. Warum ist das für dich kein problem?",
+    "category": "ausrüstung",
+    "categoryCount": 1,
+    "color": [
+      "indigo"
+    ]
+  },
+  {
+    "question": "Welchen großen/unhandlichen Gegenstand hast du dabei, und warum lässt du ihn auf keinen fall zurück?",
+    "category": "ausrüstung",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du bist auf alles vorbereitet, wie kommt es das du in deinem Rucksack so viel unterschiedliches Zeug hast?",
+    "category": "ausrüstung",
+    "categoryCount": 1,
+    "color": [
+      "green"
+    ]
+  },
+  {
+    "question": "Welches antike Erbstück hast du dabei? Und welche Legenden ranken sich darum?",
+    "category": "ausrüstung",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Was ist in deinem Aktenkoffer, an den du niemanden rann lässt?",
+    "category": "ausrüstung",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Was hast du alles in deiner Handtasche?",
+    "category": "ausrüstung",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Wie behandeln dich die anderen, da du mit abstand der/die Jüngste in der Gruppe bist?",
+    "category": "gruppe",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Warum sind dir alle in der Gruppe Suspekt, ausser �?",
+    "category": "gruppe",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Welche Aufgabe übernimmst du in der Gruppe, ohne dass je jemand darum bittet?",
+    "category": "gruppe",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Was hast du einem anderen Gruppenmitglied getan, das jetzt verschwunden ist?",
+    "category": "gruppe",
+    "categoryCount": 1,
+    "color": [
+      "indigo"
+    ]
+  },
+  {
+    "question": "Wem bist du etwas schuldig – und wie willst du es wiedergutmachen?",
+    "category": "gruppe",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du warst kein Hotelgast – wo kommst du her, und wovor gibt dir die Gruppe Schutz?",
+    "category": "gruppe",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Was für starke Gefühle hegst du für �? Wie drückt sich das aus?",
+    "category": "gruppe",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du suchst einen gesuchten Verbrecher der im Hotel war, welcher hinweis hat dich hierher geführt?",
+    "category": "gruppe",
+    "categoryCount": 1,
+    "color": [
+      "green"
+    ]
+  },
+  {
+    "question": "Du bist ein gesuchtre Verbrecher, was hast du getan und warum bist du hierher geflohen?",
+    "category": "gruppe",
+    "categoryCount": 1,
+    "color": [
+      "indigo",
+      "green"
+    ]
+  },
+  {
+    "question": "Als du aufgewacht bist hast du gleich gemerkt das jemand dir wichtiges fehlt, wer war das?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": []
+  },
+  {
+    "question": "Du wustets das etwas schlimmes passieren würde, warum?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": []
+  },
+  {
+    "question": "Was hast du getan, das du jetzt bereust?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": []
+  },
+  {
+    "question": "Du hast Blut an deinen Händen, was ist passiert?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": []
+  },
+  {
+    "question": "Wie hast du herausgefunden, das du ein Werwolf bist?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": [
+      "magenta",
+      "indigo"
+    ]
+  },
+  {
+    "question": "Du warst nicht zufällig im Hotel, was war dein Auftrag?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": []
+  },
+  {
+    "question": "Du bist mit allen Wassern gewaschen, was ist dein dunkles Geheimnis?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": []
+  },
+  {
+    "question": "Du warst auf der Flucht und wolltest dich im Hotel verstecken, vor wem oder was?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": []
+  },
+  {
+    "question": "Niemand darf erfahren das du dieser Gruppe angehörst, oder alle sind in Gefahr, warum? Welche Gruppe?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": [
+      "indigo"
+    ]
+  },
+  {
+    "question": "Niemand würde dir Glauben, was du kannst, viele nichtmal wenn sie es mit eigenen Augen sehen, da es nicht sein kann. Was kannst du?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": [
+      "magenta"
+    ]
+  },
+  {
+    "question": "Eine Vision brachte dich in das Hotel, was hast du gesehen?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": []
+  },
+  {
+    "question": "Warum verfolgst du � so verbissen?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": []
+  },
+  {
+    "question": "Du hast dein gesammtes Leben umgekrempelt, was war der auslösende Faktor?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": []
+  },
+  {
+    "question": "Du hast etwas getan, das du nie wieder gutmachen kannst, was war das?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": []
+  },
+  {
+    "question": "Du und � seid euch schonmal begegnet, er hat dein Geheimnis entdeckt. Du hast dafür gesorgt das er es wieder vergisst, wie hast du das angestellt? Und was war es? Es besteht die Gefahr das er sich wieder erinnert.",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": [
+      "indigo"
+    ]
+  },
+  {
+    "question": "Das hätte nicht passieren sollen. Du warst dir sicher das es klappt. Bist du wirklich schuld hieran? Was ist schiefgelaufen? Was hätte passieren sollen?",
+    "category": "vergangenheit",
+    "categoryCount": 2,
+    "color": []
+  },
+  {
+    "question": "Du wurdest verflucht, was ist das für ein Fluch?",
+    "category": "nachteile",
+    "categoryCount": 1,
+    "color": [
+      "indigo",
+      "magenta"
+    ]
+  },
+  {
+    "question": "Seidem du Denken kannst erleidest du fürchterliche Schmerzen, sobald du mit etwas bestimmten in kontakt kommst. Was is das?",
+    "category": "nachteile",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du hast keine Angst, vor nichts. Was ist der Grund dafür? Wie hast du das erste mal gemerkt das dies kein vorteil ist?",
+    "category": "nachteile",
+    "categoryCount": 1,
+    "color": [
+      "green"
+    ]
+  },
+  {
+    "question": "Du bist süchtig nach etwas, was ist das? Wie wirkt sich das auf dein Leben aus?",
+    "category": "nachteile",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "� hat was an sich das dir Angst macht, was ist das?",
+    "category": "nachteile",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Welche Albträume quälen dich jede Nacht?",
+    "category": "nachteile",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Welche alttägliche Aufgabe fällt dir unheimlich schwer?",
+    "category": "nachteile",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Warum hast du so große Angst vor der Dunkelheit?",
+    "category": "nachteile",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du hast einen sechsten Sinn, was nimmst du wahr?",
+    "category": "vorteile",
+    "categoryCount": 1,
+    "color": [
+      "magenta"
+    ]
+  },
+  {
+    "question": "Du bist ein geborener Anführer, wie zeigst du das?",
+    "category": "vorteile",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du hast eine besondere Beziehung zu Tieren, wie zeigt sich das?",
+    "category": "vorteile",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du bist unheimlich geschickt mit deinen Händen, was kannst du besonders gut?",
+    "category": "vorteile",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du warst schon immer ein Charmeur, wie setzt du das ein?",
+    "category": "vorteile",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du bist unglaublich belastbar, physisch und psychisch. Was hat dazu geführt?",
+    "category": "vorteile",
+    "categoryCount": 1,
+    "color": [
+      "green"
+    ]
+  },
+  {
+    "question": "Warum velierst du nie die Nerven, selbst in den schlimmsten Situationen?",
+    "category": "vorteile",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du fällst niemandemem auf, und wirst leicht übersehen und vergessen. Normalerweise ist das nicht angenehm. Wann hat es dir geholfen?",
+    "category": "vorteile",
+    "categoryCount": 1,
+    "color": [
+      "indigo"
+    ]
+  },
+  {
+    "question": "Du bist ein begnadeter Koch, was ist dein Spezialgericht?",
+    "category": "talente",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du kannst dich an jedes Detail erinnern, was hast du damit schon erreicht?",
+    "category": "talente",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du bist ein begnadeter Musiker, welches Instrument spielst du?",
+    "category": "talente",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du bist ein hervorragender Handwerker, was baust oder reparierst du am liebsten?",
+    "category": "talente",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du bist ein begnadeter Tänzer, wann hat dir das schonmal geholfen?",
+    "category": "talente",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du bist ein hervorragender Schauspieler, wann hat dir das schonmal geholfen?",
+    "category": "talente",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du bist ein begnadeter indigoner, wann hat dir das schonmal geholfen?",
+    "category": "talente",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du bist ein Überlebenskünstler, wie oder wo hast du das gelernt?",
+    "category": "talente",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "Du warst ein begnadeter Arzt und chirurg. Was ist passiert das du das nicht mehr ausüben willst?",
+    "category": "talente",
+    "categoryCount": 1,
+    "color": [
+      "green"
+    ]
+  },
+  {
+    "question": "Du hast eine Spezielle ausbildung erhalten, von der niemand etwas weiß. Was ist das für eine Ausbildung?",
+    "category": "talente",
+    "categoryCount": 1,
+    "color": [
+      "green"
+    ]
+  },
+  {
+    "question": "Du hast ein besonderes Hobby, was ist das?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Du bist in einer Geheimgesellschaft, welcher und warum?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Du bist einen Pakt mit einem Dämon eingegangen, wofür und was musst du dafür tun?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": [
+      "indigo",
+      "magenta"
+    ]
+  },
+  {
+    "question": "Du hast eine besondere Beziehung zu einem Geist, wer ist das und wie hilft er dir?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": [
+      "magenta"
+    ]
+  },
+  {
+    "question": "Du bist auf der Suche nach einem besonderen Gegenstand, was suchst du und warum?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Du Weistt etwas über das Hotel, was die anderen nicht wissen. Was ist das?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Du willst unbedingt ein bestimmtes Ziel erreichen, was ist das und warum?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Du bist auf der Flucht, vor wem oder was?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Du bist unsterblich, wie kam das? Wie lange lebst du schon? Was war deine liebste Epoche?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": [
+      "magenta"
+    ]
+  },
+  {
+    "question": "Warum magst du keine Kinder?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Nicht alles was du erzählst ist wahr, was hast du zu verbergen?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Was war das erste das du geklaut hast, und warum?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Die meisten Menschen sagen sie würden niemanden Töten. Aber du weist das du es nicht kannst. Warum?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "In welcher obskuren Wissenschaftlichen disziplin bist du Experte?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Was war deine Lieblingsbeschäftigung im Hotel?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Was macht dich einzigartig in der Gruppe?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Dein Lebensmotto ist...?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Keiner kennt deine wahre Herkunft, wo kommst du wirklich her?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Tiere reagieren seltsam auf dich, warum?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Du hattest einen unsichtbaren Freund, wie heißt er und warum ist er für dich wichtig?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Du hast eine seltsame Angewohnheit, welche ist das und warum hast du sie?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Andere sehen dich als Außenseiter, warum?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Warum bist du nicht gerne alleine?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Warum bist du nicht gerne in Gesellschaft?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Was ist dein größter Traum?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": []
+  },
+  {
+    "question": "Du bist Tot, wie bist du gestorben? Und warum weilst du noch unter den Lebenden?",
+    "category": "sonstiges",
+    "categoryCount": 3,
+    "color": [
+      "indigo",
+      "magenta"
+    ]
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  },
+  {
+    "question": "",
+    "category": "",
+    "categoryCount": 1,
+    "color": []
+  }
+]
